@@ -1,7 +1,7 @@
 # Milk for You and Me/
 
-This project is a manuscript app baked using Bookiza. 
+This manuscript app was baked using [Bookiza](http://bookiza.io). 
 
-Read the compiled book: https://bubbl.in/cover/milk-for-you-and-me-by-winifred-randell
+Read the book here: https://bubbl.in/cover/milk-for-you-and-me-by-winifred-randell
 
-License under MIT. 
+Licensed under MIT. 
